@@ -258,9 +258,7 @@ module.exports  = function(grunt){
     "clean",
     "copy",
     "csscomb",
-    "cssmin",
-    "concat",
-    "uglify"
+    "cssmin"
     // ,"htmlmin",
     // "replace"
   ]);
