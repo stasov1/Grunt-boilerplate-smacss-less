@@ -245,6 +245,7 @@ module.exports  = function(grunt){
   grunt.registerTask("dev", [
     "sass_globbing",
     "less",
+    "autoprefixer",
     "connect",
     "watch"
   ]);
